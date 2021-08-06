@@ -1,0 +1,17 @@
+aniso8601==8.1.1
+asgiref==3.3.4
+Django==3.2
+django-filter==2.4.0
+django-graphql-jwt==0.3.2
+graphene==3.0b7
+graphene-django==3.0.0b7
+graphql-core==3.1.4
+graphql-relay==3.1.0
+promise==2.3
+PyJWT==2.0.1
+pytz==2021.1
+Rx==1.6.1
+singledispatch==3.6.1
+six==1.15.0
+sqlparse==0.4.1
+text-unidecode==1.3
